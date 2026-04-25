@@ -1,4 +1,4 @@
-# IMDB Sentiment Analysis — CNN vs LSTM vs GloVe+LSTM
+# IMDB Sentiment Analysis - CNN vs LSTM vs GloVe+LSTM
 
 Comparative study of three deep learning architectures for binary sentiment classification on the IMDB movie reviews dataset (50K reviews).
 
